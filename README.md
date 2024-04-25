@@ -9,6 +9,23 @@
 **Description:**  
 Doctor's Word is a comprehensive platform designed to optimize communication, scheduling, and patient management for healthcare professionals. It provides a centralized solution for doctors and medical staff to streamline their daily workflows, enhance patient care, and improve overall practice efficiency.
 
+**Images:**
+
+
+![image](https://github.com/nikita11ch/Doctor-s-Word/assets/115834443/6d8f70b0-059f-4f4c-9c02-67444123224c)
+
+![image](https://github.com/nikita11ch/Doctor-s-Word/assets/115834443/b59574cc-99c8-456a-a68f-06ef839724f0)
+
+![image](https://github.com/nikita11ch/Doctor-s-Word/assets/115834443/eeec2c15-2d30-4183-92f5-dabfc8d76ea2)
+
+![image](https://github.com/nikita11ch/Doctor-s-Word/assets/115834443/66c8fd96-22f8-461c-884b-9377ae53d3b6)
+
+![image](https://github.com/nikita11ch/Doctor-s-Word/assets/115834443/1763b40d-f097-499c-8952-4dc106fc78b6)
+
+![image](https://github.com/nikita11ch/Doctor-s-Word/assets/115834443/574514e0-a09c-4ff6-83ab-3b2dae364bd3)
+
+![image](https://github.com/nikita11ch/Doctor-s-Word/assets/115834443/168629da-b30d-4c05-b517-d6f68c4569d0)
+
 **Features:**
 
 1. **Secure Messaging:** Doctor's Word allows healthcare professionals to communicate securely within the platform. Doctors and staff can exchange messages, share patient information, and discuss treatment plans without compromising patient confidentiality.
